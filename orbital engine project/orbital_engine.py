@@ -17,7 +17,7 @@ Features:
 Usage:
   python orbital_engine.py --config mission.yaml
 
-Author: Yash Anand (example)
+Author: Yash Anand 
 """
 
 import argparse
@@ -403,3 +403,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
