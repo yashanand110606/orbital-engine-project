@@ -1,0 +1,27 @@
+orbit:
+  alt_km: 500
+  e: 0.001
+  i_deg: 51.6
+  raan_deg: 0
+  argp_deg: 0
+  nu_deg: 0
+
+spacecraft:
+  Cd: 2.2
+  A_m2: 1.0
+  m_kg: 500
+  Cr: 1.2
+
+perturbations:
+  J2: true
+  J3: true
+  drag: true
+  srp: false
+
+simulation:
+  days: 1.0
+
+monte_carlo:
+  dv_sigma: 5.0
+  Cd_sigma: 0.02
+  m_sigma: 2.0
