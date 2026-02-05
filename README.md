@@ -181,9 +181,3 @@ Aspiring Software Engineer (Dynamics)
 Highlight
 
 This project demonstrates end-to-end development of a mission-style orbital simulation engine combining physics modeling, numerical methods, and software architecture design.
-
-
-👉 SpaceX-style project description
-👉 GitHub project badges + polish
-
-Just tell me 😄🚀
